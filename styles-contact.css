@@ -112,9 +112,10 @@ h2 {
 p {
 	/* FONT-FAMILY GOES HERE CHOOSE FROM TYPEKIT OR GOOGLE FONTS */	
 	font-family: "viktor-script",sans-serif;
-	font-size: 1.2em;
+	font-size: 35px;
     line-height: 1.6;
     color: #fff;
+
 }
 nav{
 	font-family: 'komu-a',sans-serif;
